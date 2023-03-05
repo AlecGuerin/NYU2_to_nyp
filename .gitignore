@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Project
+.idea/*
+data/*
+nyu_depth_v2_labeled.mat
+
 # C extensions
 *.so
 

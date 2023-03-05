@@ -1,0 +1,4 @@
+# Python version
+# >= 3.8
+# Package
+mat73>=0.60
